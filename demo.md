@@ -15,5 +15,3 @@ This brief screen recording demonstrates:
 4. Display the top recommended movies based on similarity.  
 
 This demo provides a quick look at how the recommendation system works in action! 🎬  
-
-
