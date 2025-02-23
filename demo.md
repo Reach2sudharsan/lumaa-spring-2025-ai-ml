@@ -14,4 +14,4 @@ This brief screen recording demonstrates:
 3. Enter a sample query (e.g., *"I love action-packed thrillers with a Sci-Fi theme."*).  
 4. Display the top recommended movies based on similarity.  
 
-This demo provides a quick look at how the recommendation system works in action! 🎬  
+This demo showcases how the recommendation system works in action!
